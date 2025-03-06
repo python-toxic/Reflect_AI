@@ -23,4 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 .env
+node_modules/myenv/
+.env
 node_modules/
+*.pyc
+__pycache__/
