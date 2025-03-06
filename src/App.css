@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.logo {
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+  width: 150px; /* Adjust the width as needed */
+}
